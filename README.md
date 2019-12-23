@@ -1,6 +1,6 @@
 <h1 align="center">Moodar App</h1>
 
-<h3 align="center">This is a study project about gym management :books:</h3>
+<h3 align="center">This is a study project about monitoring stress level :books:</h3>
 
 ## :star: Features
 
